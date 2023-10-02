@@ -33,6 +33,6 @@ Finally, the actual chatbot code is in [rag.ipynb](rag.ipynb).
 ## To Do
 
 - Upload pretrained llama2.cpp GGUF weights.
-- Make inference faster. Model compression?
+- Make inference faster.
 - Create `streamlit` app.
-- Provide GGML-to-GGUF conversion script for custom llm model usage.
+- Provide GGML-to-GGUF conversion script for custom LLM usage.
