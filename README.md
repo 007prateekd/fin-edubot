@@ -17,5 +17,5 @@ Web scraping code is provided in [scrape.py](scrape.py) and can be run simply by
 ## To Do
 
 - Make inference faster. Model compression?
-- Create `streamlit` app?
-- Provide ggml-to-gguf conversion script for custom llm model usage.
+- Create `streamlit` app.
+- Provide GGML-to-GGUF conversion script for custom llm model usage.
