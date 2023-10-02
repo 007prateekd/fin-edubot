@@ -3,7 +3,7 @@
 ## What
 A chatbot that uses LLAMA-2 family of models and Retrieval-Augmented Generation (RAG) to answer your finance-related questions on your CPU. 
 
-I have used [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) as the LLM as it has the fastest inference on CPU. I scraped [Zerodha Varisty](https://zerodha.com/varsity/) and used this as the database for RAG. The LLM would refer to this database while answering your query and augment its generation process with this data. 
+I have used [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) as the LLM as it has the fastest inference on CPU. I scraped [Zerodha Varsity](https://zerodha.com/varsity/) and used this as the database for RAG. The LLM would refer to this database while answering your query and augment its generation process with this data. The ouptut provied by RAG is crisp and to the point to what the user asks compared to just the LLM's output (comparison provided in [notebook](rag.ipynb)).
 
 ## Why
 
