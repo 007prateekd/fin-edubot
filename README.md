@@ -27,7 +27,7 @@ Finally, the actual chatbot code is in [rag.ipynb](rag.ipynb).
 
 > LLM: Unterscheidung between active and passive management. Index funds are a type of mutual fund or exchange-traded fund (ETF) that tracks a particular market index, such as the S&P 500 or the Dow Jones Industrial Average, by holding a portfolio of securities that mirrors the performance of the index. In contrast to actively managed funds, which aim to outperform the market through research and analysis of individual securities, index funds do not attempt to beat the market but rather match its performance.
 
-> RAG: Index funds are a type of mutual fund that passively tracks a market index, such as the S&P 500, by holding the same stocks in the same proportion as the index. 
+> LLM (with RAG): Index funds are a type of mutual fund that passively tracks a market index, such as the S&P 500, by holding the same stocks in the same proportion as the index. 
 
 
 ## To Do
