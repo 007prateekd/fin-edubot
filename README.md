@@ -11,7 +11,10 @@ Download GGUF weights (comaptible with llama.cpp) from [link]. Run the following
 conda env create -f environment.yml
 conda activate edubot
 ```
-Web scraping code is provided in [scrape.py](scrape.py) and can be run simply by `python scrape.py`.
+Web scraping code is provided in [scrape.py](scrape.py) and can be run simply by:
+```
+python scrape.py
+```
 
 
 ## To Do
